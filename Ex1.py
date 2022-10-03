@@ -1,4 +1,4 @@
-Escreva um programa que recebe um número inteiro e testa e imprime se ele é par ou impar
+# Escreva um programa que recebe um número inteiro e testa e imprime se ele é par ou impar
 
 num = int(input("Digite um número: "))
 check = num % 2
